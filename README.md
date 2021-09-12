@@ -2,7 +2,7 @@
 - 👀 I’m on a mission to democratize the internet and make this world an inclusive place to all. I take technology as a tool to make a difference that everyone deserves. 
 - 🎓 I have completed my Executive Post Graduate diploma from International Institute of Information Technology, bangalore (IIIT-B) on Software Development Specialized in        Blockchain and I'm currently doing my Masters in Computer science at Liverpool John Moores University, Liverpool, England.
 - 🌱 I’m currently digging deep in to blockchain and learning Artificial Intelligence.
-- 🔧 My Tech Stack Includes Solidity, Javascript, Python, Golang, Typescript, ReactJs, nodeJs.
+- 🔧 My Tech Stack Includes Solidity, Javascript, Python, Golang, Java, Typescript, ReactJs, nodeJs.
 - 💞️ I’m looking to collaborate on blockchain projects and other challenging projects that work towards a cause.
 - 📫 You can reach me at kaileskkhumar@outlook.com
 - 👀 See you on other side.
