@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaileskkhumar
+- 👋 Hi, I’m Kailesk Khumar Soundararjan, I am a Blockchain Developer currently working as freelancer. 
 - 👀 I’m in the mission to democratize the internet and make this world inclusive to all. I take technology as the tool to make a difference that everyone deserves. 
 - 🎓 I have completed my Executive Post Graduate diploma from IIIT-B in Blockchain and I'm currently doing my Masters in Computer science at Liverpool John Moores University, Liverpool, England.
 - 🌱 I’m currently digging deep in to blockchain and learning AI
