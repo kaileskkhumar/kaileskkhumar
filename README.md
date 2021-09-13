@@ -5,4 +5,4 @@
 - 🔧 My Tech Stack Includes Solidity, Javascript, Python, Golang, Java, Typescript, ReactJs, nodeJs...
 - 💞️ I’m looking to collaborate on blockchain projects and other challenging projects that work towards a cause.
 - 📫 You can reach me at kaileskkhumar@outlook.com
-- 👀 See you on other side.
+- 👀 See you on the other side.
