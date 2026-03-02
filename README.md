@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Kailesk Khumar Soundararajan, I am a Blockchain Developer currently working as a freelancer. 
-- 👀 I’m on a mission to democratize the internet and make this world an inclusive place to all. I take technology as a tool to make a difference that everyone deserves. 
-- 🎓 I have completed my Executive Post Graduate Programme on Software Development Specialized in Blockchain from International Institute of Information Technology, Bangalore (IIIT-B) and I'm currently doing my Masters in Computer science at Liverpool John Moores University, Liverpool, England.
-- 🌱 I’m currently digging deep in to blockchain and learning Artificial Intelligence.
-- 🔧 My Tech Stack Includes Javascript, Solidity, Python, Golang, Java, Typescript, ReactJs, nodeJs...
-- 💞️ I’m looking to collaborate on blockchain projects and other challenging projects that work towards a cause.
-- 📫 You can reach me at kaileskkhumar@outlook.com
+👋 Hello, World! I'm Kailesk Khumar, a passionate software engineer, AI enthusiast, and serial entrepreneur hailing from the dynamic tech landscape of Bengaluru, India. As the founder of HouseofMVPs and Kailxlabs, I specialize in transforming nascent ideas into high-impact realities through rapid MVP's, AI-driven solutions, and strategic execution. My mantra? Bridge the chasm between inspiration and implementation, empowering creators to launch faster and scale smarter.
+- 📫 You can reach me at kailek@houseofmvps.com
 - 👀 See you on the other side.
